@@ -1,0 +1,108 @@
+body{background-color: azure;}
+a{
+  text-decoration: none;
+  color: red;
+  font-size: 20px;
+  border: 2px solid brown;
+  display: inline-block;
+  width: 32.9%;
+  height: 100px;
+  text-align: center;
+  padding-top: 52px;
+}
+a:hover{
+  color: pink;
+  background-color: purple;
+  
+}
+.k1{
+  border: 2px solid blue;
+  width: 31vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center; 
+  margin: 5px;
+
+}
+.k1 img{
+  width: 30vw;
+  height: 200px;
+  padding-top: 10px;
+
+}
+.kapsa{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.k2{
+  border: 2px solid blue;
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center; 
+  margin: 5px;
+  
+
+
+
+}
+.k2 img{
+  width: 15vw;
+  height: 200px;
+  padding-top: 10px;}
+.k3{
+    border: 2px solid red;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    margin: 5px;
+  
+  
+  
+  }
+.k3 img{
+    width: 15vw;
+    height: 200px;
+    padding-top: 10px;}
+.k4{
+      border: 2px solid green;
+      width: 20vw;
+      display: flex;
+      flex-direction: column;
+      justify-content: center; 
+      align-items: center; 
+      margin: 5px;
+    
+    
+    
+    }
+.k4  img{
+      width: 15vw;
+      height: 200px;
+      padding-top: 10px;}
+.kapsam1{
+  display: flex;
+}
+.kapsam2{
+  display: flex;
+}
+.kapsam3{
+  display: flex;
+}
+.k2:hover{
+  background-color: black;
+  color: white;
+}
+.k3:hover{
+  background-color: black;
+  color: white;
+}
+.k4:hover{
+  background-color: black;
+  color: white;
+}
