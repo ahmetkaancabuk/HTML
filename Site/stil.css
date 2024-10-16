@@ -1,0 +1,102 @@
+
+.banner{
+  background-color: rgb(252, 252, 169);
+  width: 100vw;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.banner img{
+  width: 200px;
+}
+.link{
+  background-color: rgb(71, 70, 70);
+  width: 100vw;
+  height: 40px;
+  
+  display: flex;
+}
+.link a{
+
+  text-decoration: none;
+  color: white;
+  
+  padding: 10px
+
+}
+.link a:hover{
+  background-color: white;
+  color: black;
+}
+.kat1-1{
+  display: flex;
+  text-align: left;
+  border: 3px solid rgb(212, 212, 212);
+  margin-top: 5px;
+}
+.kat1-2{
+  padding: 20px;
+}
+.kat1-2 h3{
+  color: red;
+}
+.kat2-1{
+  display: flex;
+  text-align: left;
+  border: 3px solid rgb(212, 212, 212);
+  margin-top: 5px;
+}
+.kat2-2{
+  padding: 20px;
+}
+.kat2-2 h3{
+  color: red;
+}
+.kat1-2 a{
+  text-decoration: none;
+  color: red;
+}
+.kat1-2 a:hover{
+  text-decoration: underline;
+}
+.kat2-2 a{
+  text-decoration: none;
+  color: red;
+}
+.kat2-2 a:hover{
+  text-decoration: underline;
+}
+.kutu{
+  background-color: rgb(19, 19, 19);
+  color: white;
+  text-align: center;
+  padding: 5px;
+  margin: 10px;
+} 
+.kutu a{
+  text-decoration: none;
+  color: white;
+  
+}
+.card{
+  display: inline-block;
+  width: 30vw;
+ 
+  margin: 10px;
+  border: 2px solid rgb(212, 212, 212);
+}
+.card img{width: 480px;
+height: 400px ;}
+.card a{  
+  text-decoration: none;
+  color: red;
+  font-size: 20px;
+  padding-left: 10px;
+}
+.card p{
+  font-size: 15px;
+  padding-left: 10px;
+}
