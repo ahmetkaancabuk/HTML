@@ -1,0 +1,72 @@
+.grd{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+}
+.kutu1{
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    position: relative;
+}
+.tanima{
+    width: 100%;
+    background-color: rgb(34, 34, 34);
+    height: 50%;
+    position: absolute;
+    bottom: 0px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.isimler{
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 60px;
+    width: 200px;
+    left: 50px;
+    text-align: center;
+}
+.aciklama{
+ color: white;
+ width: 200px;
+ position: absolute;  
+ border-bottom: 2px solid white;
+ left: 50px;
+bottom: 10px;
+text-align: center;
+}
+
+.kutu1 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+.kisiler{
+    
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    position: relative;
+    left: 100px;
+    bottom: 200px;
+}
+.kisiler img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    
+}
+.odul{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+
+}
+.odulsayi{position: absolute; color: red; top: 7px; right: 15px;}
+.odul img{
+    width: 40px;
+    height: auto;
+
+}

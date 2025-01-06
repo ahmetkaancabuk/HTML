@@ -1,0 +1,40 @@
+.saha{
+    width: 100%;
+    
+}
+.yazi{
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    font-size: 50px;
+    
+}
+.islem{
+    width: 80vw;
+    position: relative  ;
+    
+}
+.kapsa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.forma1{
+    width: 150px;
+    height: 30px;
+    position: relative;
+    margin: 10px;
+    
+    background-color: aquamarine    ;
+    color: white;
+    display: inline-block;
+
+    
+     
+    
+}
+#idF1{ bottom: 250px;   left: 150px;  }
+#idF2{ bottom: 300px;   left: 50px;   }
+
+
+

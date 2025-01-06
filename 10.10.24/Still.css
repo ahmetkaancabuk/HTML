@@ -1,0 +1,11 @@
+#lorem, #Image1, #Image2 {
+  background-color:aqua;
+  width: 300px;
+}
+#lorem p{
+  background-color:rgb(154, 32, 32);
+  
+}
+#lorem p::first-letter{
+  font-size: 10vh;
+}

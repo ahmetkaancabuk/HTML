@@ -1,0 +1,5 @@
+.kapsa{display: flex;}
+div{ flex-grow: 3 ; height: 20vh;}
+.k1{ background-color: aquamarine; border: 10px solid grey; ;}
+.k2{ background-color: aquamarine; border: 10px solid grey; ;}
+.k3{ background-color: aquamarine; border: 10px solid grey; ;}

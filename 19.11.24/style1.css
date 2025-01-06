@@ -1,0 +1,29 @@
+*{margin: 0px;}
+.kutu1{
+    height: 200px;
+    width: 100vw;
+    background-color: yellow;
+    margin-bottom: 10px;
+}
+
+.kutu2{
+    height: 50px;
+    width: 100vw;
+    background-color: red;
+    margin-bottom: 10px;
+    position: sticky;
+    top: 20px;
+}
+
+.kutu3{
+    height: 1000px;
+    width: 100vw;
+    background-color: gray;
+    margin-bottom: 10px;
+}
+
+.kutu4{
+    height: 100px;
+    width: 100vw;
+    background-color: blueviolet;
+}
