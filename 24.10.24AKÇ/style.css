@@ -1,0 +1,50 @@
+*{margin: 0;}
+.k1{
+  color: white;
+  
+  display: flex;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-weight: bold;
+  
+}
+.header{
+  display: flex;
+  background-color: tomato;
+  width: 100%;
+  height: 40px;
+}
+.sag {
+  display: inline-block;
+  text-align: right;
+  padding-left: 1350px;
+  padding-bottom: 30px;
+}
+
+.k1 a{
+  text-decoration: none;
+  color: white;
+  
+}
+.k2 {
+  padding-left: 10px;
+  padding-top: 20px;
+  background-color: darkcyan;
+  width: 99.4%;
+  height: 400px;
+  font-size: 20px;
+  font-weight: bold
+  
+  
+
+}
+.k3{
+  background-color: tomato;
+  height: 60px;
+  padding-left: 10px;
+  padding-top: 30px;
+  vertical-align:middle;
+  font-weight: bold;
+  font-size: 20px;
+ 
+}

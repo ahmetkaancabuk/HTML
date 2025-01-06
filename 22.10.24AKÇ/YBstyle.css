@@ -1,0 +1,14 @@
+.kutu a{
+  text-decoration: none;
+  color: tomato;
+  padding: 10px;
+}
+.kutu>.link{ border-bottom: 2px solid gray; padding-bottom: 10px;}
+.kutu{
+  background-color: lightgray; padding: 10px;
+}
+.kutu>*{margin: 10px;}
+#arama{
+  padding-top: 60px;
+
+}

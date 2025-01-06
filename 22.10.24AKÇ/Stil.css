@@ -1,0 +1,32 @@
+.kapsa{
+  background-color: gray;
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+.kutu1{
+  height: 150px;
+  background-color: lightgreen;
+  width: 24vw;
+  flex-grow: 1;
+  margin: 5px;
+  
+}
+
+.kutu2{
+  height: 200px;
+  background-color: lightgreen;
+  width: 24vw;
+  flex-grow: 1;
+  margin: 5px;
+  
+}
+
+.kutu3{
+  height: 30px;
+  background-color: lightgreen;
+  width: 24vw;
+  margin: 5px;
+  flex-grow: 1;
+  
+}

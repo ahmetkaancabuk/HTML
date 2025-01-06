@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "26.11",
+			"path": "."
+		},
+		{
+			"name": "site",
+			"path": "../site"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "26.11"
+	}
+}
